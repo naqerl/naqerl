@@ -29,9 +29,4 @@ Generalist software engineer specializing in **Go** and **Python**, focused on b
 - **Maestro** — AI Music Telegram Mini App (spec + mentorship)
 - **Idealday** — LLM-powered menu reconciliation across 40K+ legacy positions
 
-### GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naqerl&show_icons=true&theme=radical&hide_border=true&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api?username=naqerl&show_icons=true&theme=default&hide_border=true&bg_color=00000000">
-</picture>
+Most of my source code is hosted at [git.naqerl.com](https://git.naqerl.com).
