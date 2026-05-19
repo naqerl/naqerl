@@ -6,6 +6,8 @@ Generalist software engineer specializing in **Go** and **Python**, focused on b
 - I contribute to **Google Genkit (Go)** — filesystem prompt loading, Reasoning content, Schema validation
 - Ask me about: Go, Python, AI integration, infrastructure, observability
 - Reach me at: [me@naqerl.com](mailto:me@naqerl.com)
+- Site: [naqerl.com](https://naqerl.com)
+- CV: [naqerl.com/about/cv.html](https://naqerl.com/about/cv.html)
 - Pronouns: he/him
 
 ### Tech Stack
