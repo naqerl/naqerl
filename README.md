@@ -1,5 +1,3 @@
-## Hi there, I'm Andrey Semenov
-
 Generalist software engineer specializing in **Go** and **Python**, focused on bridging AI with tangible business value. I build robust backend services, manage infrastructure, create effective AI integration layers, and design end-to-end distributed systems.
 
 - Currently working as an **Independent Consultant & AI Solutions Architect**
