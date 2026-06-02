@@ -31,7 +31,7 @@ Generalist software engineer specializing in **Go** and **Python**, focused on b
 - **Idealday** — LLM-powered fuzzy alignment pipeline automating daily menu reconciliation across 40,000+ legacy enterprise positions with 95%+ match accuracy.
 
 ####  Backend & Infrastructure
-- **Tracer** — Zero-dependency, lightweight Go + SQLite log aggregator, delivering a 90% cost reduction compared to heavy OpenTelemetry-based infrastructure [https://tracer.naqerl.com](landing).
+- **Tracer** — Zero-dependency, lightweight Go + SQLite log aggregator, delivering a 90% cost reduction compared to heavy OpenTelemetry-based infrastructure [landing](https://tracer.naqerl.com).
 - **CheckNFT** — Managed ETL infrastructure handling 60TB of transaction data across ClickHouse and PostgreSQL. Implemented idempotent pipelines that dropped platform incident rates by 90%.
 - **Cyberpass** — Touchless QR-based ID and CRM system supporting 12+ physical VR venues and 8K+ customers; maintained 99.99% uptime over 1.5+ years with zero critical incidents.
 - **Web3 Antivirus** — Built custom Slither static analysis detectors and developed metamorphic smart contract analysis techniques to catch deep Solidity vulnerabilities.
